@@ -1,4 +1,4 @@
-package abstractt;
+package ar.charlycimino.ejemplos.abstractclass;
 
 import java.util.ArrayList;
 
